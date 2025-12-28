@@ -16,7 +16,7 @@ A mesmerizing interactive **3D particle experience** built with modern web techn
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 | Tech              | Purpose                                     |
 | ----------------- | ------------------------------------------- |
