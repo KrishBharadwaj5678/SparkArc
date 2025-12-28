@@ -9,7 +9,7 @@ A mesmerizing interactive **3D particle experience** built with modern web techn
 | Feature                       | Description                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | 💫 **3D Particle World**      | Thousands of glowing cubes floating in a dynamic space       |
-| 🔀 **Shuffle Animation**      | With one click, particles and change colors                  |
+| 🔀 **Shuffle Animation**      | With one click, particles changes color                      |
 | 🔥 **Immersive Glow Effects** | Bloom lighting and vibrant neon colors                       |
 | 🖥️ **Browser-Based**         | Runs smoothly on web — no install required                   |
 | 🎮 **Interactive Experience** | User-triggered transformations and motion                    |
