@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # ✨ SparkArc
 
 A mesmerizing interactive **3D particle experience** built with modern web technologies.
@@ -11,7 +13,7 @@ A mesmerizing interactive **3D particle experience** built with modern web techn
 | 💫 **3D Particle World**      | Thousands of glowing cubes floating in a dynamic space       |
 | 🔀 **Shuffle Animation**      | With one click, particles changes color                      |
 | 🔥 **Immersive Glow Effects** | Bloom lighting and vibrant neon colors                       |
-| 🖥️ **Browser-Based**         | Runs smoothly on web — no install required                   |
+| 🖥️ **Browser-Based**         | Runs smoothly on web                                           |
 | 🎮 **Interactive Experience** | User-triggered transformations and motion                    |
 
 ---
@@ -27,32 +29,18 @@ A mesmerizing interactive **3D particle experience** built with modern web techn
 
 ---
 
-## 🚀 Installation 
+## 🚀 Getting Started
 
-To run SparkArc locally, follow these steps:
+### 1️⃣ Clone the repository
 
-1. Clone the repository:
+```bash
+git clone https://github.com/KrishBharadwaj5678/SparkArc.git
+```
 
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/SparkArc.git
-   ```
+### 2️⃣ Navigate to project directory
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd SparkArc
-   ```
+```bash
+cd SparkArc
+```
    
-3. Open the app in your browser.
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+### 3️⃣ Open the app in your browser
